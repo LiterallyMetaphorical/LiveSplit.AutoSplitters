@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-	<AutoSplitter>
+<AutoSplitter>
+         <Games>
+            <Game>Anger Foot</Game>
+         </Games>
+         <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.AngerFoot/main/AngerFoot.asl</URL>
+         </URLs>
+         <Type>Script</Type>
+         <Description>Auto Splitter (By ANGER FOOT Load Remover and Auto Splitter written by Ero, Micrologist, Meta, & Marczeslaw) </Description>
+    <Website>https://squidcor.itch.io/anger-foot</Website>	
+</AutoSplitter>
+<AutoSplitter>
 		<Games>
 			<Game>Sonic The Hedgehog (2006)</Game>
 			<Game>Sonic The Hedgehog (2006) Category Extensions</Game>
