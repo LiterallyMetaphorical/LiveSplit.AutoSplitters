@@ -31,7 +31,7 @@
             <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.APlagueTaleInnocence/main/APlagueTaleInnocence.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>A Plague Tale ASL with functionality for load removal and autostart by Meta</Description>
+        <Description>Functionality for load removal, autostart, and autosplit on Steam, Epic, and Xbox by Meta</Description>
         <Website>https://discord.gg/ANz4Ue4</Website>
     </AutoSplitter>
  <AutoSplitter>
