@@ -12,6 +12,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Mafia III</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.MafiaIII/main/MafiaIII.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover, Autostart, and Autosplit by Meta</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Garten of Banban 3</Game>
         </Games>
         <URLs>
