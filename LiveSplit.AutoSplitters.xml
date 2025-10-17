@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Hoomanz</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.Hoomanz/refs/heads/main/Hoomanz.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover by Meta</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Ghostly Gumshoe</Game>
         </Games>
         <URLs>
